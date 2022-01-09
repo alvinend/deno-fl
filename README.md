@@ -13,3 +13,10 @@ Test
 ```sh
 deno run https://deno.land/std/examples/welcome.ts
 ```
+
+## Start Server
+
+Start Server
+```sh
+deno run --allow-net server.ts
+```
